@@ -1,0 +1,14 @@
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.exe.config
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.exe
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.pdb
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.csproj.AssemblyReference.cache
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.csproj.CoreCompileInputs.cache
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.exe
+C:\Users\weiricth.MEIN\Desktop\PrusaPrintPortable-main\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.pdb
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.exe.config
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.exe
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\bin\Debug\CrealityPrintPortable.pdb
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.csproj.AssemblyReference.cache
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.csproj.CoreCompileInputs.cache
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.exe
+C:\Users\weiricth\Documents\github\CrealityPrintPortableStarter\CrealityPrintPortable\obj\Debug\CrealityPrintPortable.pdb
