@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CrealityPrintPortableStarter
 
 <img src="CrealityPrint_192px.png" alt="Creality Print icon" width="96" align="right"/>
@@ -32,7 +32,7 @@ Instead of storing your configuration in the Windows user profile (`%APPDATA%`),
 
 Executable for running CrealityPrint in portable mode
 Profile settings will be saved in `profile` folder
->>>>>>> 96dbb2e3e93f623c3d0a0ff16cbe59ce7787cdab
+
 
 ## Installation
 
