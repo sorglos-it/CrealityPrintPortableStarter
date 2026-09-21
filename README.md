@@ -1,4 +1,3 @@
-
 # CrealityPrintPortableStarter
 
 <img src="CrealityPrint_192px.png" alt="Creality Print icon" width="96" align="right"/>
@@ -22,17 +21,6 @@ Instead of storing your configuration in the Windows user profile (`%APPDATA%`),
 
 - Windows with [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) or newer (preinstalled on Windows 10/11)
 - [Creality Print](https://github.com/CrealityOfficial/CrealityPrint/releases)
-=======
-# CrealityPrintPortable
-
-[![Shell](https://img.shields.io/badge/shell-bash-89e051.svg)](#)
-[![Platform](https://img.shields.io/badge/platform-Proxmox%20VE-e57000.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C.svg?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=6CDEVZGJWTNQQ)
-
-Executable for running CrealityPrint in portable mode
-Profile settings will be saved in `profile` folder
-
 
 ## Installation
 
@@ -59,6 +47,11 @@ This tells Creality Print to read and write all configuration data to the local 
 1. Open `CrealityPrintPortable.sln` in Visual Studio (2017 or newer)
 2. Select the **Release** configuration and build the solution
 3. The executable is created in `CrealityPrintPortable\bin\Release\`
+
+> The build output is named `CrealityPrintPortable.exe`, while the file on the
+> [Releases](../../releases) page is named `CrealityPrintPortableStarter.exe`.
+> It is the same program — the name works either way, since the starter is
+> located by you, not by Creality Print.
 
 ## Support this project ❤️
 
