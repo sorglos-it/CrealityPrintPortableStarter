@@ -32,4 +32,4 @@ Creality Print is developed by [Creality](https://github.com/CrealityOfficial/Cr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) — © 2025 Thomas Weirich.
+This project is licensed under the [MIT License](LICENSE) — © 2025 Sorglos Thomas Weirich.
